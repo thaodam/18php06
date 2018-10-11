@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+	<head>
+		<meta charset="utf-8">
+		<title>BTVN CV</title>
+			</head>
+			<body>
+				<p> My CV</p>
+			</body>
+	</html>
