@@ -5,33 +5,40 @@ header{
 	background-color: orange;
 	padding: 20px;
 	margin: 5px;
+	width: 700px;
 }
 #nav{
 	background-color: yellow;
 	padding: 20px;
-	height: 75%;
+	height: 400px;
 	margin: 5px;
-	width: 29.6%;
+	width: 200px;
 	float: left;
 }
 #article{
 	background-color: yellow;
 	padding: 20px;
-	height: 75%;
+	height: 400px;
 	margin: 5px;
-	width: 29.6%;
+	width: 200px;
 	float: left;
 }
 #ads{
 	background-color: yellow;
 	padding: 20px;
-	height: 75%;
+	height: 400px;
 	margin: 5px;
-	width: 29.6%;
+	width: 200px;
 	float: left;
 }
 footer{
 	background-color: orange;
 	padding: 20px;
-	margin: 5px;
+	margin-top: 256px;
+	width: 700px;
+	margin-left: 5px;
+}
+body{
+	width: 900px;
+	margin:auto;
 }

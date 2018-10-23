@@ -1,0 +1,276 @@
+body{
+	height: 615px;
+	width: 700px;
+	margin: auto;
+	background-image: linear-gradient(lightblue, yellow);
+}
+section{
+	background: white;
+	padding: 20px;
+	border: 2px solid gray;
+	box-shadow: 3px 3px 2px gray;
+	margin-top: 10px;
+	height: 500px;
+}
+#header{
+	border: 2px solid gray;
+    float: left;
+    width: 99%;
+    height: 50px;
+    background: lightblue;
+}
+#brand1{
+	float: left;
+    width: 12%;
+    height: 20px;
+    margin-top: -27px;
+    margin-left: 9px;
+    background: lightpink;
+    text-align: center;
+}
+#global1{
+	float: left;
+    width: 60%;
+    height: 20px;
+    margin-top: -27px;
+    margin-left: 94px;
+    background: lightpink;
+    text-align: center;
+}
+#tools1{
+	float: left;
+    width: 23%;
+    height: 20px;
+    margin-top: -27px;
+    margin-left: 494px;
+    background: lightpink;
+    text-align: center;
+}
+#hero{
+	border: 2px solid gray;
+    float: left;
+    width: 73%;
+    height: 93px;
+    margin-top: 10px;
+    background: lightblue;
+}
+#herofeature{
+	float: left;
+    width: 45%;
+    height: 60px;
+    margin-top: 37px;
+    margin-left: -473px;
+    background: lightpink;
+    text-align: center;
+}
+#herocalltoaction{
+	float: left;
+    width: 24%;
+    height: 59px;
+    margin-top: -69px;
+    margin-left: 315px;
+    background: lightpink;
+    text-align: center;
+}
+#Ads{
+	border: 2px solid gray;
+    float: left;
+    width: 24%;
+    height: 92px;
+    margin-top: -371px;
+    text-align: center;
+    margin-left: 491px;
+    background: blue;
+}
+#body{
+	border: 2px solid gray;
+    float: left;
+    width: 73%;
+    height: 261px;
+    margin-top: 10px;
+    background: lightblue;
+}
+#articlefeature{
+    float: left;
+    width: 20%;
+    height: 228px;
+    margin-top: -238px;
+    margin-left: 9px;
+    background: lightpink;
+    text-align: center;
+}
+#articlelating{
+	float: left;
+    width: 49%;
+    height: 227px;
+    margin-top: -237px;
+    margin-left: 150px;
+    background: lightpink;
+    text-align: center;
+}
+#slidebar{
+	border: 2px solid gray;
+    float: left;
+    width: 24%;
+    height: 261px;
+    margin-top: -265px;
+    text-align: center;
+    margin-left: 491px;
+    background: lightblue;
+}
+#slidebarfeature{
+	float: left;
+    width: 22%;
+    height: 227px;
+    margin-top: -237px;
+    margin-left: 499px;
+    background: lightpink;
+}
+#footer{
+	border: 2px solid gray;
+    float: left;
+    width: 99%;
+    height: 50px;
+    margin-top: 10px;
+    text-align: center;
+    background: lightblue;
+}
+@media screen and (max-width: 768px){
+	body{
+    height: 1024px;
+    width: 700px;
+    margin: auto;
+    background-image: linear-gradient(lightblue, yellow);
+}
+section{
+    background: white;
+    padding: 20px;
+    border: 2px solid gray;
+    box-shadow: 3px 3px 2px grey;
+    margin-top: 10px;
+    height: 967px;
+}
+#header{
+	border: 2px solid gray;
+    float: left;
+    width: 99%;
+    height: 50px;
+    background: lightblue;
+}
+#brand1{
+	float: left;
+    width: 12%;
+    height: 20px;
+    margin-top: -27px;
+    margin-left: 9px;
+    background: orange;
+    text-align: center;
+}
+#global1{
+	float: left;
+    width: 60%;
+    height: 20px;
+    margin-top: -27px;
+    margin-left: 94px;
+    background: orange;
+    text-align: center;
+}
+#tools1{
+	float: left;
+    width: 23%;
+    height: 20px;
+    margin-top: -27px;
+    margin-left: 494px;
+    background: orange;
+    text-align: center;
+}
+#hero{
+	border: 2px solid gray;
+    float: left;
+    width: 99%;
+    height: 93px;
+    margin-top: 10px;
+    background: lightblue;
+}
+#herofeature{
+	float: left;
+    width: 97%;
+    height: 32px;
+    margin-top: 35px;
+    margin-left: -645px;
+    background: orange;
+    text-align: center;
+}
+#herocalltoaction{
+	float: left;
+    width: 97%;
+    height: 32px;
+    margin-top: -37px;
+    margin-left: 9px;
+    background: orange;
+    text-align: center;
+}
+#Ads{
+	border: 2px solid gray;
+    float: left;
+    width: 24%;
+    height: 105px;
+    margin-top: -665px;
+    text-align: center;
+    margin-left: 485px;
+    background: blue;
+}
+#body{
+	border: 2px solid gray;
+    float: left;
+    width: 99%;
+    height: 719px;
+    margin-top: 10px;
+    background: lightblue;
+}
+#articlefeature{
+	float: left;
+    width: 71%;
+    height: 93px;
+    margin-top: -649px;
+    margin-left: 9px;
+    background: orange;
+    text-align: center;
+}
+#articlelating{
+	float: left;
+    width: 97%;
+    height: 382px;
+    margin-top: -542px;
+    margin-left: 10px;
+    background: orange;
+    text-align: center;
+}
+#slidebar{
+	border: 2px solid gray;
+    float: left;
+    width: 96%;
+    height: 133px;
+    margin-top: -146px;
+    text-align: center;
+    margin-left: 11px;
+    background: lightblue;
+}
+#slidebarfeature{
+	float: left;
+    width: 94%;
+    height: 99px;
+    margin-top: -116px;
+    margin-left: 20px;
+    background: orange;
+}
+#footer{
+	border: 2px solid gray;
+    float: left;
+    width: 99%;
+    height: 50px;
+    margin-top: 14px;
+    text-align: center;
+    background: lightblue;
+}
+}
