@@ -1,0 +1,29 @@
+table{
+	background-color: black;
+	margin: auto;
+}
+#result{
+	width:190px;
+	text-align: right;
+}
+.btn{
+	width:34px;
+	height: 32px;
+	border-radius: 15px;
+	border: 2px solid gray;
+}
+#equ{
+	width:34px;
+	height:66px;
+	background-color: orange;
+}
+#zero{
+	width:72px;
+	height:32px;
+}
+#chia, #nhan, #tru, #cong{
+	background-color: orange;
+}
+#clear, #del{
+	background-color: gray;
+}

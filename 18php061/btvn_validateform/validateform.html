@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Validate form</title>
+	<link rel="stylesheet" type="text/css" href="validateform.css">
+	<script type="text/javascript" src="validateform.js"></script>
+</head>
+<body>
+	<h1 id="success">Form Register</h1>
+	<form>
+		
+		<div><b>Họ Và Tên:</b> <br>
+			<i><p id="invalidusername"><input type="hidden" name="invalidusername"></p></i>
+			</div>
+			<input type="text" name="username" id="username" placeholder=" Nhập Họ Và Tên" size="30">
+		<br>
+		<br>
+		<div><b>Email:</b> <br>
+			<i><p id="invalidemail"><input type="hidden" name="invalidemail"></p></i>
+		</div>
+			<input type="text" name="email" id="email" placeholder=" Nhập Email" size="30">
+		<p><input type="button" name="register" value="Register" onclick="validateForm()"></p>	  
+	</form>
+	
+</body>
+</html>
